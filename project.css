@@ -1,0 +1,9 @@
+body {
+    font-family:'Counter New',Courier,monospace;
+    text-align: center;
+    background-color: skyblue;
+}
+
+#board{
+    background-image: url("pozadi.png");
+}
